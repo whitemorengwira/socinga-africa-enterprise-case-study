@@ -37,6 +37,14 @@ I contributed to the digital platform structure, public-facing content architect
 1. Visit the live artifact to inspect the public user experience.
 2. Review this case study for role, architecture, and systems positioning.
 3. Use the main portfolio index for broader context: [NWhite Systems Portfolio](https://github.com/whitemorengwira/nwhitesystems).
+4. Forward the [one-page recruiter PDF](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) where useful.
+
+## Review In 90 Seconds
+
+- Open the live enterprise site.
+- Scan `My Role`, `What This Demonstrates`, and `Technical Proof`.
+- Compare the public case study with the wider [recruiter review guide](https://github.com/whitemorengwira/nwhitesystems/blob/main/docs/recruiter-review-guide.md).
+- [Request a portfolio walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Africa%20Enterprise) for deeper review where confidentiality allows.
 
 ## Confidentiality
 
