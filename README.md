@@ -50,6 +50,10 @@ I contributed to the digital platform structure, public-facing content architect
 
 This repository does not publish credentials, private operations, client data, infrastructure detail, internal enterprise workflows, or non-public operational documents. Deeper walkthroughs can be provided privately where confidentiality allows.
 
+## Usage Rights
+
+This repository is public for portfolio review only and is not open-source licensed. See [COPYRIGHT.md](COPYRIGHT.md) for usage boundaries.
+
 ## Request Walkthrough
 
 For deeper review where permissions allow: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Africa%20Enterprise)
