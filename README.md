@@ -1,3 +1,7 @@
+![Socinga Africa — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Socinga Africa Enterprise Website — Sanitised Portfolio Case Study
 
 **Live public artefact:** [https://www.socinga.africa/](https://www.socinga.africa/)  
